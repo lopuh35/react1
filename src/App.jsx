@@ -13,6 +13,7 @@ function App() {
       <Header />
       <CoreConcepts />
       <Examples />
+					<div></div>
     </>
   );
 }
