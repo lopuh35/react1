@@ -13,7 +13,9 @@ function App() {
       <Header />
       <CoreConcepts />
       <Examples />
-					<div></div>
+	  <div class="div_copyright page__section">
+      <p class="footer__copyright">© 2024 Adil. All rights reserved.</p>
+      </div>
     </>
   );
 }
